@@ -1,6 +1,7 @@
 module.exports = {
   mode:"jit",
-  content: [
+  purge: [
+    "./index.html",
     "./src/components/home/**/*.{html,jsx}",
     "./src/pages/**/*.{html,jsx}",
   ],
