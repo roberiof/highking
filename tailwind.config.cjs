@@ -1,9 +1,8 @@
 module.exports = {
-  mode:"jit",
-  purge: [
+  content: [
     "./index.html",
-    "./src/components/home/**/*.{html,jsx}",
-    "./src/pages/**/*.{html,jsx}",
+    "./src/components/**/*.{html,js,jsx}",
+    "./src/pages/**/*.{html,js,jsx}",
   ],
   theme: {
     extend: {
