@@ -6,7 +6,7 @@
 
 <br>
 
-> Use the project yourself: [See project!](https://highking.vercel.app/)
+> Use the project yourself: Clone the repo and use npm run dev
 
 <br>
 
